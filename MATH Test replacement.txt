@@ -1,0 +1,37 @@
+MATH
+Pythagorean theorem
+
+right triangle 
+trigonometry
+
+The Pythagorean theorem is 
+[a^2+b^2=c^2]
+
+x^2 + 4 = 49
+
+x = 45
+
+
+square root: can bac 2
+
+
+
+slant height: chieu cao mat ben 
+
+ Each side of the base is 180m
+
+hypotenuse: canh huyen  longest side in a right triangle.
+
+right angle: goc vuong
+The opposite side is across from a given angle.
+
+The adjacent side is the non-hypotenuse side that is next to a given angle.
+Angle-Side-Angle congruence su dong dang
+
+
+
+
+
+
+
+
